@@ -1,0 +1,141 @@
+body{
+    background-color:  rgb(73, 73, 73);
+    
+
+
+}
+.home-page{
+    
+    min-height: 80vh;    
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px  auto;
+    width: 77%;
+    border-radius: 26px;
+   
+    background: url('carbm.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 1120px 630px;
+    background-position-x: -29px;
+    
+   
+}
+.background-image{
+height: 1px;
+width: fit-1px;
+}
+.head-p{
+    margin-top: 37px;
+    margin-left: 30px;
+    width: 993px;
+    height: 41px;
+    border-radius: 45px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: black;
+   
+    
+}
+.head-title{
+    font-weight: 900;
+    
+    font-size: 21px;
+
+}
+.service-page{
+    min-height: 80vh;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px  auto;
+    width: 77%;
+    border-radius: 26px;
+   
+    background: url('front.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 1120px 630px;
+    background-position-x: -29px;
+}
+.service-title{
+    color: white;
+    padding-left: 48px;
+    font-size: 34px;
+    padding-top: 17px;
+    font-weight: 900;
+    height: 55px;
+}
+.box{
+    
+    height: 104.64px;
+    border-radius: 26px;
+    width: 214px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding-left: 20px;
+    margin-top: 14px;
+    color: white;
+}
+.head-box{
+    font-weight: 900;
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+
+.exp-page{
+   
+    min-height: 80vh;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px  auto;
+    width: 77%;
+    border-radius: 26px;
+   
+    background: url('side.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 1120px 630px;
+    background-position-x: -29px;
+
+}
+.logo-exp{
+    width: 174px;
+    padding-top: 29px;
+
+}
+.contact-page{
+    min-height: 80vh;
+color: black;
+font-family: 'Varela Round', sans-serif;
+display: flex;
+margin: 86px  auto;
+width: 77%;
+border-radius: 26px;
+
+background: url('right.jpg') ;
+background-repeat: no-repeat;
+background-size: 1120px 630px;
+background-position-x: -29px;
+}
+.l-m-d{
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+
+}
+.l-box{
+    margin-top: 42px;
+    height: 62px;
+    background-color: rgba(255, 255, 255, 0.2);
+    
+    border-radius: 10px;
+}
+.l-box-2{
+    margin-top: 22px;
+    height: 62px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+.fa-brands{
+    color: #ffffff;
+    font-size: 46px;
+    padding-top: 8px;
+}
