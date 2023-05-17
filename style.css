@@ -43,12 +43,12 @@ width: fit-1px;
 
 }
 .service-page{
-    min-height: 80vh;
+    min-height: 98vh;
     color: black;
     font-family: 'Varela Round', sans-serif;
     display: flex;
     margin: 86px  auto;
-    width: 77%;
+    width: 70%;
     border-radius: 26px;
    
     background: url('front.jpg') ;
@@ -83,12 +83,12 @@ width: fit-1px;
 
 .exp-page{
    
-    min-height: 80vh;
+   min-height: 98vh;
     color: black;
     font-family: 'Varela Round', sans-serif;
     display: flex;
     margin: 86px  auto;
-    width: 77%;
+    width: 70%;
     border-radius: 26px;
     background: url('side.jpg') ;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ width: fit-1px;
 
 }
 .contact-page{
-min-height: 80vh;
+min-height: 98vh;
 color: black;
 font-family: 'Varela Round', sans-serif;
 display: flex;
