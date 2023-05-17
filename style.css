@@ -5,17 +5,20 @@ body{
 
 }
 .home-page{
-    min-height: 80vh;    
+   min-height: 98vh;
     color: black;
     font-family: 'Varela Round', sans-serif;
     display: flex;
-    margin: 86px  auto;
-    width: 77%;
+    margin: 86px auto;
+    width: 70%;
     border-radius: 26px;
-    background: url('carbm.jpg') ;
+    background: url(carbm.jpg);
     background-repeat: no-repeat;
     background-size: 1120px 630px;
     background-position-x: -29px;
+}
+
+
     
    
 }
