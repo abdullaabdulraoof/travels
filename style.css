@@ -5,20 +5,19 @@ body{
 
 }
 .home-page{
-   min-height: 78vh;
+    
+    min-height: 80vh;    
     color: black;
     font-family: 'Varela Round', sans-serif;
     display: flex;
-    margin: 86px auto;
-    width: 70%;
+    margin: 86px  auto;
+    width: 77%;
     border-radius: 26px;
-    background: url(carbm.jpg);
+   
+    background: url('carbm.jpg') ;
     background-repeat: no-repeat;
     background-size: 1120px 630px;
     background-position-x: -29px;
-}
-
-
     
    
 }
@@ -39,16 +38,17 @@ width: fit-1px;
 }
 .head-title{
     font-weight: 900;
+    
     font-size: 21px;
 
 }
 .service-page{
-    min-height: 78vh;
+    min-height: 80vh;
     color: black;
     font-family: 'Varela Round', sans-serif;
     display: flex;
     margin: 86px  auto;
-    width: 70%;
+    width: 77%;
     border-radius: 26px;
    
     background: url('front.jpg') ;
@@ -83,13 +83,14 @@ width: fit-1px;
 
 .exp-page{
    
-  min-height: 78vh;
+    min-height: 80vh;
     color: black;
     font-family: 'Varela Round', sans-serif;
     display: flex;
     margin: 86px  auto;
-    width: 70%;
+    width: 77%;
     border-radius: 26px;
+   
     background: url('side.jpg') ;
     background-repeat: no-repeat;
     background-size: 1120px 630px;
@@ -102,12 +103,12 @@ width: fit-1px;
 
 }
 .contact-page{
-min-height: 78vh;
+    min-height: 80vh;
 color: black;
 font-family: 'Varela Round', sans-serif;
 display: flex;
 margin: 86px  auto;
-width: 70%;
+width: 77%;
 border-radius: 26px;
 
 background: url('right.jpg') ;
@@ -124,6 +125,7 @@ background-position-x: -29px;
     margin-top: 42px;
     height: 62px;
     background-color: rgba(255, 255, 255, 0.2);
+    
     border-radius: 10px;
 }
 .l-box-2{
@@ -137,3 +139,192 @@ background-position-x: -29px;
     font-size: 46px;
     padding-top: 8px;
 }
+.kktit{
+    color: #ffffff;
+        font-weight: 900;
+        text-align: center;
+        font-size: 95px;
+}
+.secondr{
+    margin-top: 55px;
+        width: 993px;
+        margin-left: -135px;padding-top: 30px;
+}
+.thirdr{
+    margin-top: 55px;
+        width: 993px;
+        margin-left: -182px;padding-top: 30px;
+}
+.fourthr{
+    margin-top: 36px;
+        width: 369px;
+        margin-left: -177px;
+        padding-top: 47px;
+        height: 445px;
+}
+@media only screen and (max-width: 700px){
+    .home-page{
+    
+        min-height: 70vh;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px auto;
+    width: 87%;
+    border-radius: 26px;
+    background: url(carbm.jpg);
+    background-repeat: no-repeat;
+    background-size: 1134px 715px;
+    background-position-x: -190px;
+    background-position-y: -2px;
+        
+       
+    }
+    .head-p {
+        margin-top: 26px;
+        margin-left: 17px;
+        width: 329px;
+        height: 41px;
+        border-radius: 45px;
+        background-color: rgba(255, 255, 255, 0.2);
+        color: black;
+    }
+    
+    .navbar {
+        
+        margin-top: -48px;
+    }
+    .head-title{
+    font-weight: 900;
+    font-size: 21px;}
+    .firstcol{
+        padding-left: 31px;
+    padding-top: 9px;
+    font-size: 0px;
+    }
+    .kktit{
+        color: #ffffff;
+    font-weight: 900;
+    text-align: center;
+    font-size: 65px;
+    padding-top: 23px;
+
+    }
+    .service-page{
+        min-height: 70vh;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px auto;
+    width: 87%;
+    border-radius: 26px;
+    background: url('front.jpg');
+    background-repeat: no-repeat;
+    background-size: 1134px 715px;
+    background-position-x: -190px;
+    background-position-y: -2px;
+    }
+    .box {
+        height: 86.64px;
+    border-radius: 26px;
+    width: 214px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding-left: 20px;
+    margin-top: -4px;
+    color: white;
+    }
+    .service-title {
+        color: white;
+        padding-left: 86px;
+        font-size: 40px;
+        padding-top: 17px;
+        font-weight: 900;
+        height: 55px;
+    }
+    .secondr{
+        margin-top: 51px;
+        width: 993px;
+        margin-left: -216px;
+        padding-top: 30px;
+        }
+        .head-box{
+            
+                font-weight: 900;
+                font-size: 30px;
+                padding-top: 26px;
+            
+        }
+        .hotelbook{
+            padding-top: 6px;
+        }
+        .exp-page{
+            min-height: 70vh;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px auto;
+    width: 87%;
+    border-radius: 26px;
+    background: url('side.jpg');
+    background-repeat: no-repeat;
+    background-size: 1134px 715px;
+    background-position-x: -190px;
+    background-position-y: -2px;
+        }
+        .exp-title{
+            padding-left:54px;
+
+        }
+        .box1{
+            height: 86.64px;
+    border-radius: 26px;
+    width: 214px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding-left: 20px;
+    margin-top: -4px;
+    color: white;
+        }
+        .thirdr{
+            margin-top: 51px;
+            width: 993px;
+            margin-left: -244px;
+            padding-top: 30px;
+        }
+
+        .contact-page{
+    min-height: 70vh;
+    color: black;
+    font-family: 'Varela Round', sans-serif;
+    display: flex;
+    margin: 86px auto;
+    width: 87%;
+    border-radius: 26px;
+    background: url(pxfuel.jpg);
+    background-repeat: no-repeat;
+    background-size: 1134px 1049px;
+    background-position-x: -394px;
+    background-position-y: -2px;
+}
+        }
+        .fourthr {
+            margin-top: 57px;
+            width: 346px;
+            margin-left: -316px;
+            padding-top: 47px;
+            height: 536px;
+        }
+        .contact-title{
+            color: white;
+                padding-left: 39px;
+                font-size: 45px;
+                padding-top: 21px;
+                font-weight: 900;
+                height: 55px;
+            }
+            .l-box-2 {
+                margin-top: 52px;
+            }
+            
+            
+        
+        
